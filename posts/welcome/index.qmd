@@ -1,0 +1,12 @@
+---
+title: "Welcome To My Blog"
+author: "Blessing- The Christian"
+date: "2024-06-08"
+categories: [news]
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](thumbnail.jpg)
+
+I created this blog on the 8th of June 2024 (circa 2 AM) after ending a Monthly Friday vigil. I have had this thought of creating a blog during the week to express my thoughts about things, especially science. So, I got inspiration reading [Meghan Hall's post](https://meghan.rbind.io/blog/2024-02-11-moving-to-quarto/) how she switched to Quarto. That's how I read a few posts, including [Philipp's](https://www.philippkollenda.com/posts/qp2022-08-05_my-first-website/) and watched a few YT videos on how to get started although I had once started a website with Quarto but abandoned it and I have a Google site [website](https://go.iastate.edu/H8AOBR) already. This is just for blogging and journaling.

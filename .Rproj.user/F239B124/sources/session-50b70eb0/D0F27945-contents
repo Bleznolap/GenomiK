@@ -1,0 +1,14 @@
+{
+  "hash": "1cbc84ddb1f3de072182a2a493fabec3",
+  "result": {
+    "markdown": "---\ntitle: \"Hebrew Language\"\nauthor: \"Blessing- The Chriatian\"\ndate: \"2024-06-08\"\ncategories: [Language]\nimage: \"HBRW.png\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
