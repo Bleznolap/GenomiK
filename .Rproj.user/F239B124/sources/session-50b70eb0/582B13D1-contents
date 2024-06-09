@@ -9,7 +9,7 @@ image: "matx.png"
 This is a post with executable code for building a sparse matrix.
 
 ```{r}
-mtx <- diag(20) #dense matrix
+mtx <- diag(12) #dense matrix
 mtx
 
 mtxs <- Matrix::Matrix(mtx) #sparse matrix

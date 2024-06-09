@@ -1,5 +1,5 @@
 ---
-title: "GenomiK"
+#title: "GenomiK"
 listing:
   contents: posts
   sort: "date desc"
