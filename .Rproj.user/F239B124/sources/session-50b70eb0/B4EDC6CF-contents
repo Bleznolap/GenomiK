@@ -15,7 +15,7 @@ website:
       #     href: https://go.iastate.edu/H8AOBR
 format:
   html:
-    theme: lux #cosmo
+    theme: minty #cosmo
     css: styles.css
 
 editor: visual

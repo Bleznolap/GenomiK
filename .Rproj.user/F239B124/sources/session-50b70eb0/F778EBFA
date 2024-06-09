@@ -3,7 +3,7 @@
     "path": "C:/Users/blezn/Desktop/GenomiK/styles.css",
     "project_path": "styles.css",
     "type": "css",
-    "hash": "0",
+    "hash": "766220845",
     "contents": "",
     "dirty": false,
     "created": 1717863420901.0,
@@ -11,14 +11,16 @@
     "relative_order": 6,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "1,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1692659694,
+    "lastKnownWriteTime": 1717899902,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1692659694,
+    "last_content_update": 1717899902779,
     "read_only": false,
     "read_only_alternatives": []
 }
