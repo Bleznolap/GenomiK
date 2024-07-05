@@ -1,7 +1,7 @@
 ---
 title: "Sparse matrix"
-author: "Blessing- The Christian"
-date: "2024-06-08"
+#author: "Blessing- The Christian"
+#date: "2024-06-08"
 categories: [code, analysis]
 image: "matx.png"
 ---

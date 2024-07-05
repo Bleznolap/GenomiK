@@ -1,8 +1,8 @@
 ---
 title: "Follow Thou Me"
-author: "Blessing- The Christian"
-date: "2024-07-05"
-categories: [Faith]
+#author: "Blessing- The Christian"
+#date: "2024-07-05"
+categories: [faith]
 image: "Follow.jpeg"
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Freedom yet colonized"
-author: "Blessing- The Christian"
-date: "2024-07-04"
-categories: [Faith]
+#author: "Blessing- The Christian"
+#date: "2024-07-04"
+categories: [faith]
 image: "Free.jpeg"
 ---
 

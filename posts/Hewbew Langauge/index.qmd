@@ -1,8 +1,8 @@
 ---
 title: "How to read hebrew language"
-author: "Blessing- The Christian"
-date: "2024-06-08"
-categories: [Language]
+#author: "Blessing- The Christian"
+#date: "2024-06-08"
+categories: [language]
 image: "HBRW.png"
 ---
 
