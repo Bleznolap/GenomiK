@@ -1,0 +1,26 @@
+PLINK v2.00a6 64-bit (26 May 2024)
+Options in effect:
+  --bfile C:/Users/blezn/Desktop/IASTATE/BWSISG/MOD19_Association-selected/Course_Materials/YRI_CEU_ASW_MEX_NAM
+  --out pca_plink
+  --pca 10
+
+Hostname: BLEZNOLAP
+Working directory: C:\Users\blezn\Desktop\GenomiK
+Start time: Wed Jun 12 16:38:55 2024
+
+Random number seed: 1718224735
+16108 MiB RAM detected; reserving 8054 MiB for main workspace.
+Using up to 16 threads (change this with --threads).
+604 samples (316 females, 288 males; 433 founders) loaded from
+C:/Users/blezn/Desktop/IASTATE/BWSISG/MOD19_Association-selected/Course_Materials/YRI_CEU_ASW_MEX_NAM.fam.
+150872 variants loaded from
+C:/Users/blezn/Desktop/IASTATE/BWSISG/MOD19_Association-selected/Course_Materials/YRI_CEU_ASW_MEX_NAM.bim.
+Note: No phenotype data present.
+Calculating allele frequencies... done.
+Constructing GRM: done.
+Correcting for missingness... done.
+Extracting eigenvalues and eigenvectors... done.
+--pca: Eigenvectors written to pca_plink.eigenvec , and eigenvalues written to
+pca_plink.eigenval .
+
+End time: Wed Jun 12 16:38:56 2024
