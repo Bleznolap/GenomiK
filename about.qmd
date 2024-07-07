@@ -18,3 +18,10 @@ about:
 GenomiK is a blog post focusing on genomic sciences (including other omics), genomic technologies and biology, and other advances in the genomic field.
 
 Also, it includes interesting topic, including Christian faith, language, adventures, etc
+
+::: {.callout-caution collapse="true"}
+
+## Motto
+
+When it comes to genes and genome, let's talk!
+:::
